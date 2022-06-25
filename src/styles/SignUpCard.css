@@ -1,0 +1,14 @@
+.card-signup
+{
+  border:1px solid black;
+  transform:translate(50%,40%)
+}
+Button
+{
+  color:rgb(76,21,246)
+}
+img
+{
+    width:15px;
+    height:15px;
+}

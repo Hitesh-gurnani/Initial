@@ -1,0 +1,22 @@
+*{
+   }
+.Signup
+{
+    display:flex;
+}
+
+.text-heading
+{
+    font-size:50px;
+    color:rgb(79,79,79);
+    transform:translate(30%,15vh);
+}
+.text-content
+{
+    font-size:20px;
+}
+.text-heading-subtext
+{
+    margin-top:-70px;
+    color:rgb(76,21,246)
+}
